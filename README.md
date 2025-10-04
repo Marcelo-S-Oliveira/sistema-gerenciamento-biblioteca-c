@@ -13,25 +13,6 @@ Um simples sistema de gerenciamento de biblioteca desenvolvido em C. O projeto p
 - **Atualizar Livro:** Altera as informações de um livro existente.
 - **Remover Livro:** Realiza a exclusão lógica de um livro.
 
-## 🚀 Como Compilar e Executar
-
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/SEU-USUARIO/sistema-gerenciamento-biblioteca-c.git](https://github.com/SEU-USUARIO/sistema-gerenciamento-biblioteca-c.git)
-    ```
-2.  **Navegue até a pasta do projeto:**
-    ```bash
-    cd sistema-gerenciamento-biblioteca-c
-    ```
-3.  **Compile o código:**
-    ```bash
-    gcc biblioteca.c -o biblioteca
-    ```
-4.  **Execute o programa:**
-    ```bash
-    ./biblioteca
-    ```
-
 ## 🛠️ Tecnologias Utilizadas
 
 - Linguagem C
